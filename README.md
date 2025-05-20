@@ -1,7 +1,7 @@
 # ABC Corp Customer Data
 
 
-# Dashboard
+# Corporate Sales Dashboard
 
 ## Problem Statement
 
