@@ -1,5 +1,3 @@
-# Riya-Dashboard-3
-
 # ABC Corp Customer Data
 
 
